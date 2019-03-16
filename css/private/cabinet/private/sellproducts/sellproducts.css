@@ -1,0 +1,11 @@
+.noproducts__title{
+  font-size: 24px;
+  line-height: 35px;
+  text-align: center;
+  color: #6d6d6d;
+}
+.noproducts{
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+}

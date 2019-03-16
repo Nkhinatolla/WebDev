@@ -1,0 +1,32 @@
+.subscribe{
+  display: flex;
+  justify-content: space-between;
+  background: #F2F2F2;
+  padding: 50px 135px;
+}
+.subscribe__title{
+  font-size: 24px;
+  margin-bottom: 7px;
+}
+.subscribe__description{
+  font-size: 18px;
+  padding-right: 100px;
+}
+.subscribe__input{
+  width: 470px;
+  padding: 0px 15px;
+  outline: none;
+  border: none;
+  border-radius: 40px;
+  border: 1px solid #D6D6D6;
+}
+.subscribe__button{
+  letter-spacing: 2px;
+  width: 150px;
+  font-size: 16px;
+  outline: none;
+  border: none;
+  color: #ffffff;
+  background-color: #33333a;
+  border-radius: 40px;
+}

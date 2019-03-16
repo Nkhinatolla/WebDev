@@ -1,0 +1,20 @@
+.descriptions{
+  display: flex;
+  /* width: 100%; */
+  justify-content: space-between;
+  margin-bottom: 50px;
+  margin-left: 135px;
+  margin-right: 135px;
+}
+.description{
+  display: flex;
+  line-height: 25px;
+  width: 350px;
+}
+.des{
+  margin-top: 65px;
+  font-size: 18px;
+}
+.description img{
+  margin-right: 8px;
+}
